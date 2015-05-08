@@ -10,3 +10,6 @@ It's written in Python (2) and requires PyQt4 to work, in the future I'm going t
 With this program you can easily select (and de-select) a vehicle category (sports cars, bikes, etc.) and add, multiply or set all the values of a variable. The categories are easily configured in the 'vehiclestypes' file.
 
 This isn't very nicely programmed because it was made originally only for personal usage, and personally, I don't care about some bad practices for my personal stuff as long as it works :).
+
+Here's an old screenshot:
+![image](https://fungamesreactor.files.wordpress.com/2015/05/sshot1.png)
