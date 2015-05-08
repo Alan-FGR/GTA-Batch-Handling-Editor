@@ -8,3 +8,5 @@ This program should work with any GTA version (HD era) with only minor adjustmen
 It's written in Python (2) and requires PyQt4 to work, in the future I'm going to build binaries with pyinstaller.
 
 With this program you can easily select (and de-select) a vehicle category (sports cars, bikes, etc.) and add, multiply or set all the values of a variable.
+
+This isn't nicely programmed because it was made originally only for personal usage, and personally, I don't care about some bad practices for my personal stuff as long as it works :).
