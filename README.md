@@ -1,6 +1,9 @@
 # GTA-Batch-Handling-Editor
 GTA Batch Handling Editor
 
+UPDATE: Here is a link to a binary distribution: https://drive.google.com/file/d/0B-imfIHFgQA5cGlpcUN6Ql9EU2M/view?usp=sharing
+It works with IV+EFLC (allows you to easily choose from different handling files)
+
 When I used to play GTA IV, I liked modding the handling file to my tastes, however, I wanted to modify all the values of all vehicles (or some, e.g: bikes) at once, for example, multiplying the value of the engine power or top speed by some number; I couldn't find anything on the web to do that (for both IV and EFLC), so I decided to make my own.
 
 This program should work with any GTA version (HD era) with only minor adjustments, so I'm waiting for the GTA V handling to be moddable in order to put it to the test and unlike the other editors, this one leaves the commented lines intact.
